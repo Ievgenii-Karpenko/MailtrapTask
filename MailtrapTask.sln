@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailtrapTask", "MailtrapTask\MailtrapTask.csproj", "{F20165F2-C7B9-4F0E-B625-9B9041C38873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailtrapEmailSender", "MailtrapEmailSender\MailtrapEmailSender.csproj", "{B3B01C22-320C-45F2-B77F-F21D4457CD25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailtrapEmailSenderTests", "MailtrapEmailSenderTests\MailtrapEmailSenderTests.csproj", "{FB32C4C2-3FEA-45C8-BDD9-351CE483E4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F20165F2-C7B9-4F0E-B625-9B9041C38873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20165F2-C7B9-4F0E-B625-9B9041C38873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20165F2-C7B9-4F0E-B625-9B9041C38873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20165F2-C7B9-4F0E-B625-9B9041C38873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B01C22-320C-45F2-B77F-F21D4457CD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B01C22-320C-45F2-B77F-F21D4457CD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B01C22-320C-45F2-B77F-F21D4457CD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B01C22-320C-45F2-B77F-F21D4457CD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB32C4C2-3FEA-45C8-BDD9-351CE483E4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB32C4C2-3FEA-45C8-BDD9-351CE483E4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB32C4C2-3FEA-45C8-BDD9-351CE483E4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB32C4C2-3FEA-45C8-BDD9-351CE483E4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEBF1A88-BEA0-4C71-BB5B-1DB7908CC800}
+	EndGlobalSection
+EndGlobal
